@@ -1,0 +1,31 @@
+{
+  "name": "personal-project",
+  "version": "1.0.0",
+  "description": "With my project I will attempt to make a game website. The games will be just short little time wasters to play on a boring afternoon. For now all of these will be various types of 2D games or puzzle games. Also considering adding a few retro games at some point.",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sclair85/personal-project.git"
+  },
+  "author": "Samuel Clair",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sclair85/personal-project/issues"
+  },
+  "homepage": "https://github.com/sclair85/personal-project#readme",
+  "dependencies": {
+    "autoprefixer": "^10.2.5",
+    "browser-sync": "^2.26.14",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^7.0.1",
+    "gulp-clean-css": "^4.3.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-eslint": "^6.0.0",
+    "gulp-html-replace": "^1.6.2",
+    "gulp-imagemin": "^7.1.0",
+    "gulp-sourcemaps": "^3.0.0"
+  }
+}

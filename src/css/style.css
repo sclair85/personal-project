@@ -140,7 +140,7 @@ body {
   left: 70px;
   width:  149px;
   height: 149px;
-  background: url('images/bounce-images/bounce.png')
+  background: url('images/game1-images/bounce.png')
   0px 0px;
   background-size: 1500px;
 }
@@ -162,7 +162,7 @@ body {
   top: 37px;
   width: 75px;
   height: 100px;
-  background: url('images/bounce-images/cactus.png')
+  background: url('images/game1-images/cactus.png')
   0px 0px;
   background-size: 75px;
 }

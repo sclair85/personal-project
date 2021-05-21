@@ -18,7 +18,7 @@ const bounceOff = function() {
 }
 
 const squash = function() {
-  slime.style.background = `url('images/bounce-images/bounce10.png') 0px 0px`;
+  slime.style.background = `url('images/game1-images/bounce10.png') 0px 0px`;
   slime.style.backgroundSize = `120px`;
   slime.style.width = `120px`;
   slime.style.height = `45px`;
@@ -29,7 +29,7 @@ const squash = function() {
 }
 
 const squashOff = function() {
-  slime.style.background = `url('images/bounce-images/bounce.png') 0px 0px`;
+  slime.style.background = `url('images/game1-images/bounce.png') 0px 0px`;
   slime.style.backgroundSize = `1500px`;
   slime.style.width = `149px`;
   slime.style.height = `149px`;
